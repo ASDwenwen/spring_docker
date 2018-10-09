@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @Slf4j
 public class IndexController {
-    @Autowired
-    private StringRedisTemplate stringRedisTemplate;
 
     @GetMapping(value = {"/","/index"})
     public String index(){
