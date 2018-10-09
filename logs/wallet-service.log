@@ -1,0 +1,28 @@
+2018-10-09 14:34:23 [main] INFO  com.spring_docker.DemoApplication
+                [StartupInfoLogger.java:50] Starting DemoApplication on DESKTOP-36Q5F6A with PID 1968 (D:\code\spring_docker\target\classes started by leung in D:\code\spring_docker) 
+2018-10-09 14:34:23 [main] DEBUG com.spring_docker.DemoApplication
+                [StartupInfoLogger.java:53] Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2018-10-09 14:34:23 [main] INFO  com.spring_docker.DemoApplication
+                [SpringApplication.java:680] No active profile set, falling back to default profiles: default 
+2018-10-09 14:34:26 [main] INFO  com.spring_docker.DemoApplication
+                [StartupInfoLogger.java:59] Started DemoApplication in 3.481 seconds (JVM running for 4.258) 
+2018-10-09 14:34:30 [http-nio-8080-exec-1] INFO  com.spring_docker.controller.IndexController
+                [IndexController.java:15] hello---------------------- 
+2018-10-09 14:34:35 [http-nio-8080-exec-2] INFO  com.spring_docker.controller.IndexController
+                [IndexController.java:15] hello---------------------- 
+2018-10-09 14:55:11 [main] INFO  com.spring_docker.DemoApplication
+                [StartupInfoLogger.java:50] Starting DemoApplication on DESKTOP-36Q5F6A with PID 9544 (D:\code\spring_docker\target\classes started by leung in D:\code\spring_docker) 
+2018-10-09 14:55:11 [main] DEBUG com.spring_docker.DemoApplication
+                [StartupInfoLogger.java:53] Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2018-10-09 14:55:11 [main] INFO  com.spring_docker.DemoApplication
+                [SpringApplication.java:680] No active profile set, falling back to default profiles: default 
+2018-10-09 14:56:12 [main] INFO  com.spring_docker.DemoApplication
+                [StartupInfoLogger.java:50] Starting DemoApplication on DESKTOP-36Q5F6A with PID 4696 (D:\code\spring_docker\target\classes started by leung in D:\code\spring_docker) 
+2018-10-09 14:56:12 [main] DEBUG com.spring_docker.DemoApplication
+                [StartupInfoLogger.java:53] Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE 
+2018-10-09 14:56:12 [main] INFO  com.spring_docker.DemoApplication
+                [SpringApplication.java:680] No active profile set, falling back to default profiles: default 
+2018-10-09 14:56:14 [main] INFO  com.spring_docker.DemoApplication
+                [StartupInfoLogger.java:59] Started DemoApplication in 2.896 seconds (JVM running for 3.357) 
+2018-10-09 14:56:40 [http-nio-8080-exec-1] INFO  com.spring_docker.controller.IndexController
+                [IndexController.java:20] hello---------------------- 
