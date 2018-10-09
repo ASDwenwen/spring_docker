@@ -19,6 +19,6 @@ public class IndexController {
     public String index(){
         log.info("hello----------------------");
         //stringRedisTemplate.opsForValue().set("hello","体育个偶尔温柔群殴批娃儿");
-        return stringRedisTemplate.opsForValue().get("hello");
+        return "hello world";
     }
 }
