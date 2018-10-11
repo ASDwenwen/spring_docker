@@ -16,6 +16,6 @@ public class IndexController {
     @GetMapping(value = {"/","/index"})
     public String index(){
         log.info("hello----------------------");
-        return "hello 哦口口咯";
+        return "hello 哦口口咯42321431432";
     }
 }
