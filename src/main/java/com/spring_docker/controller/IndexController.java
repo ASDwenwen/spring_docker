@@ -15,7 +15,7 @@ public class IndexController {
     public String index(){
         int a=1;
         log.info("hello----------------------");
-        return "hello worl";
+        return "hello worl21231";
 
     }
 }
