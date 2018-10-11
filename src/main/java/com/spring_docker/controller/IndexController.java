@@ -1,8 +1,6 @@
 package com.spring_docker.controller;
 
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -15,7 +13,9 @@ public class IndexController {
 
     @GetMapping(value = {"/","/index"})
     public String index(){
+        int a=1;
         log.info("hello----------------------");
-        return "hello 哦口口咯42321431432";
+        return "hello worl";
+
     }
 }
